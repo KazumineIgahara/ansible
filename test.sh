@@ -1,2 +1,3 @@
 #!/bin/bash
-echo test2
+echo test4
+echo test5
