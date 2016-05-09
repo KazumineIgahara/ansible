@@ -1,2 +1,2 @@
 #!/bin/bash
-echo no-merge
+echo merge last
